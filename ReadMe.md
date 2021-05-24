@@ -15,5 +15,7 @@
     keep an eye on their health by notifiying gurdian or nearby hospital
     in case of emergency.
 
-### Demo Video:
-    Coming soon....
+### Images:
+![alt text](assets/box.jpeg)
+![alt text](assets/Module.jpeg)
+
